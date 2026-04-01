@@ -39,10 +39,12 @@ into models and insights that actually matter.
 
 ---
 
-## 📊 GitHub Stats
+## 📌 What I'm Focused On
 
-![Isha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmai309&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmai309&layout=compact&hide_border=true)
+- 🤖 Building with **LLMs and RAG pipelines**
+- 📊 Applied ML — clustering, classification, anomaly detection
+- 🧪 Making models **explainable and production-ready**
+- 📝 Sharing learnings through writing on Medium
 
 ---
 
